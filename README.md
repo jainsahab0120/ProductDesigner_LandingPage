@@ -14,7 +14,7 @@ This repository contains the source code for the **Product Designer Landing Page
 - [License](#license)
 
 ## Demo
-You can view the live demo of the landing page [here](#).
+You can view the live demo of the landing page [here](https://productdesignerlandingpage.netlify.app/).
 
 ## Features
 - **Responsive Design**: The layout adjusts beautifully across different screen sizes, from desktop to mobile.
